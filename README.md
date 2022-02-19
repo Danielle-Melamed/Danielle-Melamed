@@ -1,11 +1,11 @@
 <h1>Hello to you! I'm Danielle💕<h1>
-<h2>I'm a JavaScript and Node.js programmer.
-I'm a team captain in the 7067 Team Streak FRC team, and currently trying to learn Java.
-I'm a highschool student and I'm Working with an organization called "Machshava Tova" and I'm helping teaching Kids Node.js.</h2>
+<h4>I'm a JavaScript and Node.js programmer. <br>
+I'm a team captain in the 7067 Team Streak FRC team, and currently trying to learn Java.<br>
+I'm a highschool student and I'm Working with an organization called "Machshava Tova" and I'm helping teaching Kids Node.js.</h4>
 
   
   <h3> How to reach me: </h3>
-  <a href = "https://www.instagram.com/danielle.melamed/"><img alt="instagram" src="https://e7.pngegg.com/pngimages/685/699/png-clipart-instagram-icon-home-cafe-youtube-email-   instagram-logo-text-united-states.png"></a>
+  <a href = "https://www.instagram.com/danielle.melamed/"><img alt="instagram" src="https://cdn-icons-png.flaticon.com/512/733/733558.png"></a>
   
 
 
