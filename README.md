@@ -5,7 +5,7 @@ I'm a highschool student and I'm Working with an organization called "Machshava 
 
   
   <h3> How to reach me: </h3>
-  <a href = "https://www.instagram.com/danielle.melamed/"><img alt="instagram" src="https://cdn-icons-png.flaticon.com/512/733/733558.png"></a>
+  <a href = "https://www.instagram.com/danielle.melamed/"><img alt="instagram" src="https://cdn-icons-png.flaticon.com/512/733/733558.png", style:size:30px></a>
   
 
 
